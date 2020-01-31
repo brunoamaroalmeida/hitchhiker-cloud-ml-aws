@@ -17,6 +17,7 @@ Once your notebook is up and running, launch the Jupyer web interface.
 ![enter image description here](https://github.com/brunoamaroalmeida/hitchhiker-cloud-ml-aws/blob/master/sagemaker/images/1.%20CreateNB-3.png?raw=true)
 
 ### 2. Using AWS Labs MNIST K-Means notebook file
+
 **2.1 Upload the example file to Jupyter**
 Upload the ipython notebook to your Jypyter instance. You can find the file [here](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/1P_kmeans_highlevel/kmeans_mnist.ipynb)
 
@@ -24,7 +25,7 @@ Upload the ipython notebook to your Jypyter instance. You can find the file [her
 ![enter image description here](https://github.com/brunoamaroalmeida/hitchhiker-cloud-ml-aws/blob/master/sagemaker/images/2.1%20Jupyter-1.png?raw=true)
 
 
-** 2.2 Following the steps in the notebook**
+**2.2 Following the steps in the notebook**
 
 Select the cell and click Run to execute that python statement
 
